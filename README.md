@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/codebynilesh/"><img src="https://img.shields.io/badge/-%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.youtube.com/@codebynilesh"><img src="https://img.shields.io/badge/-%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://www.instagram.com/codebynilesh"><img src="https://img.shields.io/badge/-%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:nileshjadhav.pro@gmail.com"><img src="https://img.shields.io/badge/-%20Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:nileshjadhav.pro@gmail.com?subject=Hi%20Nilesh"><img src="https://img.shields.io/badge/-%20Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://codebynilesh.pythonanywhere.com/"><img src="https://img.shields.io/badge/-%20Portfolio-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 <br/><br/>
