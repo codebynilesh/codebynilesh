@@ -22,17 +22,48 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<table>
+<tr>
+<td valign="top" width="55%">
+
+<h3>⚙️ About</h3>
+
+> **Backend Developer & Systems Engineer** building
+> infrastructure from the ground up — API gateways,
+> social platforms, and scalable backend systems.
+>
+> *Performance first. Clean architecture always. Scale by design.*
+
+<table>
+<tr><td>
+
+`Languages` → Python · Java · C++ · Go
+
+`Backend` → Django · Spring · REST APIs
+
+`Databases` → PostgreSQL · MySQL
+
+`Focus` → Distributed Systems · API Design
+
+`Exploring` → Compiler Design · VM Internals
+
+</td></tr>
+</table>
+
+</td>
+<td valign="top" width="45%">
 
 <div align="center">
-  <!-- Switched to Summary Cards Service for stability -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeByNilesh&theme=tokyonight" width="100%" alt="Profile Details" />
-</div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=CodeByNilesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
 <br/>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodeByNilesh&theme=tokyonight" width="48%" alt="Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodeByNilesh&theme=tokyonight" width="48%" alt="Stats" />
+<img src="https://streak-stats.demolab.com/?user=CodeByNilesh&theme=tokyonight&hide_border=true" width="100%" alt="Streak Stats" />
+
 </div>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -228,6 +259,30 @@ server api on 3000 {
 </td>
 </tr>
 </table>
+</div>
+
+---
+
+<h3 align="center">📊 Activity & Languages</h3>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByNilesh&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6e40&area=true&area_color=58a6ff20&hide_border=true" width="100%" alt="Activity Graph" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByNilesh&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages" />
+
+</div>
+
+---
+
+<h3 align="center">🏆 Trophies</h3>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=CodeByNilesh&theme=tokyonight&no-bg=true&no-frame=true&column=7&margin-w=10" width="100%" alt="Trophies" />
+
 </div>
 
 ---
