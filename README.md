@@ -257,7 +257,9 @@ server api on 3000 {
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=CodeByNilesh&theme=tokyonight&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByNilesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" width="40%" />
+
+<!-- Switched to Rickstaa Mirror for stability -->
+<img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=CodeByNilesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" width="40%" />
 
 </div>
 
@@ -265,7 +267,8 @@ server api on 3000 {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=CodeByNilesh&theme=tokyonight&no-bg=true&no-frame=true&column=7&margin-w=10" width="100%" />
+<!-- Simplified Trophies link to prevent timeouts -->
+<img src="https://github-profile-trophy.vercel.app/?username=CodeByNilesh&theme=tokyonight&no-frame=true&column=7&margin-w=10" width="100%" />
 
 </div>
 
