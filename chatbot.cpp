@@ -29,7 +29,7 @@ int main(){
       int n;
       cout<<"Enter Your Feedback sir:\n\n  1. Device issue\n 2. Product not delivered\n 3. Misbihavior of delivery team";
       cin>>n;
-      cout<<"we will work on it sir, thanks for the feedback!!\n"
+      cout<<"we will work on it sir, thanks for the feedback!!\n";
     }
     else{
       cout<<"Unrecognized Error\n";
